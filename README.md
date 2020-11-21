@@ -2,7 +2,7 @@
 
 > Predict vivino rating for wines
 
-This is a very simple vuejs frontend for predicting rating for wines.
+This is a vuejs frontend for predicting rating for wines.
 Couple of input parameters must be provided by the user. The application sends the input parameters to the backend REST API and displays the predicted rating for the given wine.
 
 The backend is provided with https://github.com/sansar-choinyambuu/vivino-rating-backend
