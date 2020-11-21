@@ -1,5 +1,5 @@
 'use strict'
 module.exports = {
   NODE_ENV: '"production"',
-  VUE_APP_API: '"http://localhost:5000/api"'
+  VUE_APP_API: '"https://vivino-rating-backend.herokuapp.com/api"'
 }
